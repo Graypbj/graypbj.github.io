@@ -13,9 +13,9 @@ export default [
 
     },
     {
-        title: 'Legend of Zelda Reimagining',
+        title: 'School Projects',
         imgUrl: '/assets/terminal-website.jpg',
-        stack: ['Python', 'Godot'],
+        stack: ['Java', 'Spring', 'C++'],
         link: '',
     },
 ]
